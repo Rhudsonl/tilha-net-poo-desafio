@@ -1,0 +1,14 @@
+C:\Users\rener\Documents\CURSO DE PROGRAMAÇAO\csharp\trilha-net-poo-desafio\bin\Debug\net7.0\trilha-net-poo-desafio.exe
+C:\Users\rener\Documents\CURSO DE PROGRAMAÇAO\csharp\trilha-net-poo-desafio\bin\Debug\net7.0\trilha-net-poo-desafio.deps.json
+C:\Users\rener\Documents\CURSO DE PROGRAMAÇAO\csharp\trilha-net-poo-desafio\bin\Debug\net7.0\trilha-net-poo-desafio.runtimeconfig.json
+C:\Users\rener\Documents\CURSO DE PROGRAMAÇAO\csharp\trilha-net-poo-desafio\bin\Debug\net7.0\trilha-net-poo-desafio.dll
+C:\Users\rener\Documents\CURSO DE PROGRAMAÇAO\csharp\trilha-net-poo-desafio\bin\Debug\net7.0\trilha-net-poo-desafio.pdb
+C:\Users\rener\Documents\CURSO DE PROGRAMAÇAO\csharp\trilha-net-poo-desafio\obj\Debug\net7.0\trilha-net-poo-desafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rener\Documents\CURSO DE PROGRAMAÇAO\csharp\trilha-net-poo-desafio\obj\Debug\net7.0\trilha-net-poo-desafio.AssemblyInfoInputs.cache
+C:\Users\rener\Documents\CURSO DE PROGRAMAÇAO\csharp\trilha-net-poo-desafio\obj\Debug\net7.0\trilha-net-poo-desafio.AssemblyInfo.cs
+C:\Users\rener\Documents\CURSO DE PROGRAMAÇAO\csharp\trilha-net-poo-desafio\obj\Debug\net7.0\trilha-net-poo-desafio.csproj.CoreCompileInputs.cache
+C:\Users\rener\Documents\CURSO DE PROGRAMAÇAO\csharp\trilha-net-poo-desafio\obj\Debug\net7.0\trilha-net-poo-desafio.dll
+C:\Users\rener\Documents\CURSO DE PROGRAMAÇAO\csharp\trilha-net-poo-desafio\obj\Debug\net7.0\refint\trilha-net-poo-desafio.dll
+C:\Users\rener\Documents\CURSO DE PROGRAMAÇAO\csharp\trilha-net-poo-desafio\obj\Debug\net7.0\trilha-net-poo-desafio.pdb
+C:\Users\rener\Documents\CURSO DE PROGRAMAÇAO\csharp\trilha-net-poo-desafio\obj\Debug\net7.0\trilha-net-poo-desafio.genruntimeconfig.cache
+C:\Users\rener\Documents\CURSO DE PROGRAMAÇAO\csharp\trilha-net-poo-desafio\obj\Debug\net7.0\ref\trilha-net-poo-desafio.dll
